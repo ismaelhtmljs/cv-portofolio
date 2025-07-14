@@ -1,0 +1,7 @@
+.separator::before{
+  content: "";
+  background-color: black;
+  width: 3px;
+  height: 25px;
+  position: absolute;
+}
