@@ -9,10 +9,12 @@
   .header-tittle-res{
     font-size: 25px;
   }
+  
   /* content */
   .content-p-size-res{
     font-size: 20px;
   }
+  
   /* about section */
   .about_div_1_res{
     flex-direction: column;
@@ -23,9 +25,24 @@
   .about_padding_res{
     padding: 0px;
   }
+  .about_size_img_div{
+    width: 283px;
+  }
+  
   /* projects section */
   .projects-padding-res{
     padding: 0px;
+  }
+  
+  /* skills section */
+  .skills_padding_res{
+    padding: 0px;
+  }
+  .skills_w_cart{
+    width: 100%;
+  }
+  .skills_gap_res{
+    gap: 20px;
   }
 }
 
@@ -40,10 +57,12 @@
   .header-tittle-res{
     font-size: 25px;
   }
+  
   /* content */
   .content-p-size-res{
     font-size: 20px;
   }
+  
   /* about section */
   .about_div_1_res{
     flex-direction: column;
@@ -54,9 +73,24 @@
   .about_padding_res{
     padding: 0px;
   }
+  .about_size_img_div{
+    width: 283px;
+  }
+  
   /* projects section */
   .projects-padding-res{
     padding: 0px;
+  }
+  
+  /* skills section */
+  .skills_padding_res{
+    padding: 0px;
+  }
+  .skills_w_cart{
+    width: 100%;
+  }
+  .skills_gap_res{
+    gap: 20px;
   }
 }
 
