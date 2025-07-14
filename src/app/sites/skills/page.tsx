@@ -58,14 +58,14 @@ export default function Skills() {
                     <FaJs className="text-amber-500 text-[45px]" />
                     <p className="font-bold text-xl">JavaScript</p>
                     <div className="ml-5 separator">
-                      <p className="font-bold text-xl ml-2.5">Basico</p>
+                      <p className="font-bold text-xl ml-2.5">Intermedio</p>
                     </div>
                   </div>
                   <div className="flex items-center">
                     <SiTypescript className="text-blue-700 text-[45px]" />
                     <p className="font-bold text-xl">TypeScript</p>
                     <div className="ml-5 separator">
-                      <p className="font-bold text-xl ml-2.5">Basico</p>
+                      <p className="font-bold text-xl ml-2.5">Básico</p>
                     </div>
                   </div>
                 </div>
@@ -102,7 +102,7 @@ export default function Skills() {
                     <FaNodeJs className="text-green-500 text-[45px]" />
                     <p className="font-bold text-xl">Node js</p>
                     <div className="ml-5 separator">
-                      <p className="font-bold text-xl ml-2.5">Basico</p>
+                      <p className="font-bold text-xl ml-2.5">Básico</p>
                     </div>
                   </div>
                   <div className="flex items-center">

@@ -20,7 +20,7 @@ export default function Projects() {
                 <strong>Projects</strong>
               </h2>
             </div>
-            <div className="flex flex-wrap items-center justify-around p-2.5">
+            <div className="flex flex-wrap items-center justify-around p-2.5 gap-5">
               <div className="flex flex-col gap-5">
                 <div className="bg-[#09203a] rounded">
                   <div className="flex flex-col-reverse">

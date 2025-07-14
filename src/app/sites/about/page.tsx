@@ -1,11 +1,10 @@
 import Header from "@/app/components/header/header";
 import { AiOutlineGlobal } from "react-icons/ai";
 import { IoCodeSlash } from "react-icons/io5";
-import '@/app/components/css/responsive.css';
+import "@/app/components/css/responsive.css";
 import "@/app/sites/about/about.css";
 
 export default function About() {
-
   const flecha = ">";
 
   return (
@@ -44,13 +43,13 @@ export default function About() {
                       <i className="text-[#00ff3a] text-[25px] pr-[10px]">
                         {flecha}
                       </i>
-                      <strong>Birthday:</strong> 8 Sep, 2004
+                      <strong>Birthday</strong>: 8 Sep, 2004
                     </p>
                     <p className="flex items-center">
                       <i className="text-[#00ff3a] text-[25px] pr-[10px]">
                         {flecha}
                       </i>
-                      <strong>Phone:</strong> +51 978 680 283
+                      <strong>Phone</strong>: +51 978 680 283
                     </p>
                   </div>
                   <div>
@@ -58,13 +57,13 @@ export default function About() {
                       <i className="text-[#00ff3a] text-[25px] pr-[10px]">
                         {flecha}
                       </i>
-                      <strong>Cite:</strong> Independence, Perú
+                      <strong>Cite</strong>: Independence, Perú
                     </p>
                     <p className="flex items-center">
                       <i className="text-[#00ff3a] text-[25px] pr-[10px]">
                         {flecha}
                       </i>
-                      <strong>Email:</strong> Ismaelgq.88@gmail.com
+                      <strong>Email</strong>: Ismaelgq.88@gmail.com
                     </p>
                   </div>
                 </div>
