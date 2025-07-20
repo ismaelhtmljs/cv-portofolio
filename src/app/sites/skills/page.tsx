@@ -31,7 +31,7 @@ export default function Skills() {
             <div className="bg-white rounded p-2.5 text-black w-full">
               <div className="p-[5px]">
                 <h4 className="raleway-none-w font-bold text-2xl">
-                  Lenguagues
+                  Lenguajes
                 </h4>
               </div>
               <div className="flex flex-wrap p-2.5 justify-evenly items-center skills_padding_res skills_gap_res">
